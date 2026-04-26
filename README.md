@@ -14,7 +14,7 @@
 
 ---
 
-- 📍 Ubicación: **Monterrey / Guadalupe, NL, México**
+- 📍 Ubicación: **Monterrey / Apodaca, NL, México**
 - 🛠️ Actualmente trabajando en: **API de Gestión de Postulaciones** (Java 17 + Spring Boot 3)
 - ⚙️ Pasión: Autohospedaje (**Self-hosting**) y optimización de servidores Linux.
 - 📊 Interés: Transformar datos en decisiones mediante **Power BI**.
