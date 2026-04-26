@@ -15,7 +15,7 @@
 ---
 
 - 📍 Ubicación: **Monterrey / Apodaca, NL, México**
-- 🛠️ Actualmente trabajando en: **API de Gestión de Postulaciones** (Java 17 + Spring Boot 3)
+- 🛠️ Actualmente trabajando en: **API de Gestión de Postulaciones** (Java 21 + Spring Boot 3)
 - ⚙️ Pasión: Autohospedaje (**Self-hosting**) y optimización de servidores Linux.
 - 📊 Interés: Transformar datos en decisiones mediante **Power BI**.
 
@@ -25,7 +25,7 @@
 
 | Backend & DB | Infra & Monitoreo | Herramientas & Data |
 | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
+| ![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-61D185?style=for-the-badge&logo=uptime-kuma&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
