@@ -1,4 +1,4 @@
-# Hi there, I'm Joel Moreno 👋 
+# Hola!, Soy Joel Moreno 👋 
 
 <br>
 
@@ -15,7 +15,7 @@
 ---
 
 - 📍 Ubicación: **Monterrey / Apodaca, NL, México**
-- 🛠️ Actualmente trabajando en: **API de Gestión de Postulaciones** (Java 21 + Spring Boot 3)
+- 🛠️ Actualmente trabajando en: **API de Monitoreo de Inventario enfocado en Soporte IT** (Java 21 + Spring Boot 3)
 - ⚙️ Pasión: Autohospedaje (**Self-hosting**) y optimización de servidores Linux.
 - 📊 Interés: Transformar datos en decisiones mediante **Power BI**.
 
