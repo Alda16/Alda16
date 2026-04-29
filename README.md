@@ -15,7 +15,7 @@
 ---
 
 - 📍 Ubicación: **Monterrey / Apodaca, NL, México**
-- 🛠️ Actualmente trabajando en: **API de Control de Inventario** (Java 21 + Spring Boot 3)
+- 🛠️ Actualmente trabajando en: **API de Control de Inventario** (Java 21 + Spring Boot 3 + PostgreSQL)
 - ⚙️ Pasión: Autohospedaje (**Self-hosting**) y optimización de servidores Linux.
 - 📊 Interés: Transformar datos en decisiones mediante **Power BI**.
 
