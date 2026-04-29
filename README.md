@@ -48,7 +48,7 @@ Más allá del código, me aseguro de que las aplicaciones vivan en entornos san
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** www.linkedin.com/in/joel-moreno-52b893298
+- **LinkedIn:** www.linkedin.com/in/aldairmoreno16
 - **Portfolio:** https://alda16.github.io/alda-portafolio/
 - **Email:** aldairmorenosta@gmail.com
 
