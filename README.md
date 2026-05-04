@@ -40,6 +40,8 @@ Más allá del código, me aseguro de que las aplicaciones vivan en entornos san
 ---
 
 ### 📊 Mis Estadísticas
+[!NOTE]
+**Servicio caído**: estoy tratando de desplegar mi propia instancia del servicio en vercel
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alda16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alda16&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
