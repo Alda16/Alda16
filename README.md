@@ -13,7 +13,7 @@
 
 - 📍 Ubicación: **Monterrey, NL - México**
 - 🛠️ Actualmente trabajando en: ...
-- ⚙️ Pasión: Obaservar y encontrar soluciones inteligentes y eficientes admeas de sustentables mediante mis conocimientos de software.
+- ⚙️ Pasión: Obaservar y encontrar soluciones inteligentes y eficientes ademas de sustentables mediante mis conocimientos de software.
 - 📊 Meta: Aprender a programar sin depender de una IA o sentirme inseguro sin ella. 
 
 ---
